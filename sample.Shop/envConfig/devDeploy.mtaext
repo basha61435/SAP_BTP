@@ -1,0 +1,6 @@
+_schema-version: '3.1'
+ID: Demo_MTA_Project.devconfig
+extends: Demo_MTA_Project
+parameters:
+    dep-space: dev
+    xs-uaa-app-name: shppordev

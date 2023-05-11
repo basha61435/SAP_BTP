@@ -1,0 +1,40 @@
+ID: Demo_MTA_Project
+_schema-version: '3.1'
+description: Demo MTA Project
+version: 0.0.1
+
+parameters:
+  dep-space: dev
+  xs-uaa-app-name: shoppr_dev
+  app_name: shoppr
+  deployed_domain: cfapps.eu10.hana.ondemand.com
+
+modules:
+ - name: sample.Shop
+   type: html5
+   path: sample.Shop
+   parameters:
+      disk-quota: 512M
+      memory: 512M
+   build-parameters:
+      builder: grunt
+   requires:
+    - name: uaa_Demo_MTA_Project
+    - name: dest_Demo_MTA_Project
+
+resources:
+ - name: uaa_Demo_MTA_Project
+   parameters:
+      path: ./xs-security.json
+      service-plan: application
+      config:
+         xsappname: ${xs-uaa-app-name}
+      service: xsuaa
+   type: org.cloudfoundry.managed-service
+
+ - name: dest_Demo_MTA_Project
+   parameters:
+      service-plan: lite
+      service: destination
+   type: org.cloudfoundry.managed-service
+

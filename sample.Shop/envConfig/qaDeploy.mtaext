@@ -1,0 +1,6 @@
+_schema-version: '3.1'
+ID: Demo_MTA_Project.qaconfig
+extends: Demo_MTA_Project
+parameters:
+    dep-space: qa
+    xs-uaa-app-name: shpporqa
