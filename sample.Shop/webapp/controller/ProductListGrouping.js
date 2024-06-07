@@ -23,7 +23,7 @@ sap.ui.define([
 			}
 			this._oGroupDialog.open();
 		},
-
+		// Sample Commmit
 		// Handler for the Confirm button of the grouping dialog. Depending on the selections made in the
 		// dialog, the respective sorters are created and stored in the _oTableOperations object.
 		// The actual setting of the sorters on the binding is done in function applyTableOperations of the
