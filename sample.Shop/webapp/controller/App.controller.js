@@ -25,7 +25,7 @@ sap.ui.define([
 
 			//It is necessary to use metadataLoaded Promise for success,
 			//but this promise is never rejected, therefore the attachMetadataFailed
-			//is needed for the failed case.
+			//is needed for the failed case.1
 			this.getOwnerComponent().getModel().metadataLoaded().
 			then(fnSetAppNotBusy);
 			this.getOwnerComponent().getModel().attachMetadataFailed(fnSetAppNotBusy);
