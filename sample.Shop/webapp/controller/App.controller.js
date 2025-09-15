@@ -30,7 +30,7 @@ sap.ui.define([
 			then(fnSetAppNotBusy);
 			this.getOwnerComponent().getModel().attachMetadataFailed(fnSetAppNotBusy);
 
-			// apply content density mode to root view
+			// apply content density mode to root view Test
 			this.getView().addStyleClass(this.getOwnerComponent().getContentDensityClass());
 
 			oFilterModel = new JSONModel({});
