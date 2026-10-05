@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: AllowanceValMap
+Bundle-SymbolicName: AllowanceValMap
+Bundle-Version: 1.0.6
+SAP-BundleType: ValueMapping
+SAP-NodeType: IFLMAP
+Import-Package: com.sap.xi.mapping.camel.valmap
+Bundle-Activator: com.sap.xi.mapping.camel.valmap.ValueMappingActivator
+Origin-Bundle-Name: AllowanceValMap
+Origin-Bundle-Version: 1.0.4
+Origin-Bundle-SymbolicName: AllowanceValMap
+Origin-ModifiedDate: 1790755066671
+
