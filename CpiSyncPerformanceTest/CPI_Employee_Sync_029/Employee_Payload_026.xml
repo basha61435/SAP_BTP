@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employee>
+  <Header>
+    <DocumentNumber>4500029026</DocumentNumber>
+    <CompanyCode>1010</CompanyCode>
+    <DocumentDate>2026-01-04</DocumentDate>
+    <Currency>INR</Currency>
+    <PartnerName>Nordic Foods AB</PartnerName>
+    <City>Walldorf</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG89</Material><Quantity>369</Quantity><NetAmount>89141.13</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG383</Material><Quantity>146</Quantity><NetAmount>29713.71</NetAmount></Item>
+  </Items>
+</Employee>

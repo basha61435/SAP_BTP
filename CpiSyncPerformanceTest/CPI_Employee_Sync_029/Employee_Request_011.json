@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500029011",
+  "type": "Employee",
+  "partner": { "name": "Bharat Steel Ltd", "city": "Bengaluru" },
+  "netAmount": 82590.12,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-029-011"
+}

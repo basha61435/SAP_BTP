@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employee>
+  <Header>
+    <DocumentNumber>4500029078</DocumentNumber>
+    <CompanyCode>4310</CompanyCode>
+    <DocumentDate>2026-07-11</DocumentDate>
+    <Currency>SEK</Currency>
+    <PartnerName>Rhein Chemie AG</PartnerName>
+    <City>Lima</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG54</Material><Quantity>319</Quantity><NetAmount>37189.15</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG434</Material><Quantity>146</Quantity><NetAmount>12396.38</NetAmount></Item>
+  </Items>
+</Employee>

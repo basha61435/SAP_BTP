@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employee>
+  <Header>
+    <DocumentNumber>4500029066</DocumentNumber>
+    <CompanyCode>4310</CompanyCode>
+    <DocumentDate>2026-07-10</DocumentDate>
+    <Currency>INR</Currency>
+    <PartnerName>Acme Retail GmbH</PartnerName>
+    <City>Lima</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG13</Material><Quantity>162</Quantity><NetAmount>90425.2</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG598</Material><Quantity>102</Quantity><NetAmount>30141.73</NetAmount></Item>
+  </Items>
+</Employee>

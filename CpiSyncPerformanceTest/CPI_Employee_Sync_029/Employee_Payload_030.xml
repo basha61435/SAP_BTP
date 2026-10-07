@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employee>
+  <Header>
+    <DocumentNumber>4500029030</DocumentNumber>
+    <CompanyCode>1010</CompanyCode>
+    <DocumentDate>2026-03-03</DocumentDate>
+    <Currency>INR</Currency>
+    <PartnerName>Pacific Logistics Inc</PartnerName>
+    <City>Bengaluru</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG72</Material><Quantity>64</Quantity><NetAmount>54216.41</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG197</Material><Quantity>127</Quantity><NetAmount>18072.14</NetAmount></Item>
+  </Items>
+</Employee>

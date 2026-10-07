@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employee>
+  <Header>
+    <DocumentNumber>4500029042</DocumentNumber>
+    <CompanyCode>1710</CompanyCode>
+    <DocumentDate>2026-02-15</DocumentDate>
+    <Currency>EUR</Currency>
+    <PartnerName>Acme Retail GmbH</PartnerName>
+    <City>Frankfurt</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG59</Material><Quantity>293</Quantity><NetAmount>93532.09</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG453</Material><Quantity>185</Quantity><NetAmount>31177.36</NetAmount></Item>
+  </Items>
+</Employee>
