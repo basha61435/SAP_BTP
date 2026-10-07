@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500025031",
+  "type": "BusinessPartner",
+  "partner": { "name": "Rhein Chemie AG", "city": "Stockholm" },
+  "netAmount": 88949.87,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-025-031"
+}

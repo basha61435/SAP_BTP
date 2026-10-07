@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BusinessPartner>
+  <Header>
+    <DocumentNumber>4500025002</DocumentNumber>
+    <CompanyCode>1710</CompanyCode>
+    <DocumentDate>2026-03-11</DocumentDate>
+    <Currency>USD</Currency>
+    <PartnerName>Rhein Chemie AG</PartnerName>
+    <City>Chicago</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG34</Material><Quantity>393</Quantity><NetAmount>92761.47</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG505</Material><Quantity>403</Quantity><NetAmount>30920.49</NetAmount></Item>
+  </Items>
+</BusinessPartner>
