@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500015067",
+  "type": "BusinessPartner",
+  "partner": { "name": "Rhein Chemie AG", "city": "Lima" },
+  "netAmount": 86339.98,
+  "status": "CREATED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-015-067"
+}

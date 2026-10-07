@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500015047",
+  "type": "BusinessPartner",
+  "partner": { "name": "Andes Mining SA", "city": "Chicago" },
+  "netAmount": 41988.18,
+  "status": "POSTED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-015-047"
+}
