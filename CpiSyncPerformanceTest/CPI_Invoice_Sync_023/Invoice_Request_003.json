@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500023003",
+  "type": "Invoice",
+  "partner": { "name": "Bharat Steel Ltd", "city": "Walldorf" },
+  "netAmount": 7744.98,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-023-003"
+}

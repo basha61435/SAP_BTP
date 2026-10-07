@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500023039",
+  "type": "Invoice",
+  "partner": { "name": "Nordic Foods AB", "city": "Walldorf" },
+  "netAmount": 78357.37,
+  "status": "RELEASED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-023-039"
+}

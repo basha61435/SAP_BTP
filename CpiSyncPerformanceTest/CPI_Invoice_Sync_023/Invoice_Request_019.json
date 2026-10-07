@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500023019",
+  "type": "Invoice",
+  "partner": { "name": "Rhein Chemie AG", "city": "Bengaluru" },
+  "netAmount": 32251.29,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-023-019"
+}

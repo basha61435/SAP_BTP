@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500023007",
+  "type": "Invoice",
+  "partner": { "name": "Acme Retail GmbH", "city": "Chicago" },
+  "netAmount": 96928.34,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-023-007"
+}

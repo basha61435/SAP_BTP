@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice>
+  <Header>
+    <DocumentNumber>4500023022</DocumentNumber>
+    <CompanyCode>1010</CompanyCode>
+    <DocumentDate>2026-03-07</DocumentDate>
+    <Currency>SEK</Currency>
+    <PartnerName>Acme Retail GmbH</PartnerName>
+    <City>Bengaluru</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG24</Material><Quantity>20</Quantity><NetAmount>52041.39</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG534</Material><Quantity>254</Quantity><NetAmount>17347.13</NetAmount></Item>
+  </Items>
+</Invoice>

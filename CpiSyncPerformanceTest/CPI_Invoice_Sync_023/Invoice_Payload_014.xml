@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice>
+  <Header>
+    <DocumentNumber>4500023014</DocumentNumber>
+    <CompanyCode>1710</CompanyCode>
+    <DocumentDate>2026-08-19</DocumentDate>
+    <Currency>USD</Currency>
+    <PartnerName>Acme Retail GmbH</PartnerName>
+    <City>Walldorf</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG20</Material><Quantity>73</Quantity><NetAmount>56131.89</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG512</Material><Quantity>316</Quantity><NetAmount>18710.63</NetAmount></Item>
+  </Items>
+</Invoice>
