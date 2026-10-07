@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodsReceipt>
+  <Header>
+    <DocumentNumber>4500017054</DocumentNumber>
+    <CompanyCode>2910</CompanyCode>
+    <DocumentDate>2026-02-14</DocumentDate>
+    <Currency>EUR</Currency>
+    <PartnerName>Rhein Chemie AG</PartnerName>
+    <City>Chicago</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG25</Material><Quantity>198</Quantity><NetAmount>38464.95</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG679</Material><Quantity>84</Quantity><NetAmount>12821.65</NetAmount></Item>
+  </Items>
+</GoodsReceipt>

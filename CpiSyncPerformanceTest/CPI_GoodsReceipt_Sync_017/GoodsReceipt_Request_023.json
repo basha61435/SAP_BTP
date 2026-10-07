@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500017023",
+  "type": "GoodsReceipt",
+  "partner": { "name": "Acme Retail GmbH", "city": "Chicago" },
+  "netAmount": 32404.12,
+  "status": "CREATED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-017-023"
+}

@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500017031",
+  "type": "GoodsReceipt",
+  "partner": { "name": "Pacific Logistics Inc", "city": "Lima" },
+  "netAmount": 64094.5,
+  "status": "RELEASED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-017-031"
+}

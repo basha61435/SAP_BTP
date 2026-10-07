@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodsReceipt>
+  <Header>
+    <DocumentNumber>4500017046</DocumentNumber>
+    <CompanyCode>2910</CompanyCode>
+    <DocumentDate>2026-07-13</DocumentDate>
+    <Currency>USD</Currency>
+    <PartnerName>Pacific Logistics Inc</PartnerName>
+    <City>Walldorf</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG70</Material><Quantity>226</Quantity><NetAmount>95105.27</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG532</Material><Quantity>259</Quantity><NetAmount>31701.76</NetAmount></Item>
+  </Items>
+</GoodsReceipt>
