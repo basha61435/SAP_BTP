@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Material>
+  <Header>
+    <DocumentNumber>4500026070</DocumentNumber>
+    <CompanyCode>2910</CompanyCode>
+    <DocumentDate>2026-01-17</DocumentDate>
+    <Currency>EUR</Currency>
+    <PartnerName>Pacific Logistics Inc</PartnerName>
+    <City>Chicago</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG34</Material><Quantity>485</Quantity><NetAmount>49811.2</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG191</Material><Quantity>158</Quantity><NetAmount>16603.73</NetAmount></Item>
+  </Items>
+</Material>

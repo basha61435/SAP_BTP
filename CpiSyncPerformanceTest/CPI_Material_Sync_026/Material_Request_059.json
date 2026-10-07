@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500026059",
+  "type": "Material",
+  "partner": { "name": "Acme Retail GmbH", "city": "Chicago" },
+  "netAmount": 93508.81,
+  "status": "CREATED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-026-059"
+}

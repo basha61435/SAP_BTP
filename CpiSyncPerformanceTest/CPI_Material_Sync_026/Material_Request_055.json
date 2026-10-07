@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500026055",
+  "type": "Material",
+  "partner": { "name": "Acme Retail GmbH", "city": "Bengaluru" },
+  "netAmount": 18929.17,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-026-055"
+}

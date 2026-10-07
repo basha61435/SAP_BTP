@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500026067",
+  "type": "Material",
+  "partner": { "name": "Nordic Foods AB", "city": "Chicago" },
+  "netAmount": 94429.36,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-026-067"
+}
