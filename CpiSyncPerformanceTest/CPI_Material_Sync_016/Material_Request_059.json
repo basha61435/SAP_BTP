@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500016059",
+  "type": "Material",
+  "partner": { "name": "Andes Mining SA", "city": "Lima" },
+  "netAmount": 88177.33,
+  "status": "CREATED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-016-059"
+}

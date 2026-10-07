@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500016035",
+  "type": "Material",
+  "partner": { "name": "Pacific Logistics Inc", "city": "Bengaluru" },
+  "netAmount": 86470.95,
+  "status": "CREATED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-016-035"
+}

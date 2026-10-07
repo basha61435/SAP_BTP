@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500016043",
+  "type": "Material",
+  "partner": { "name": "Bharat Steel Ltd", "city": "Chicago" },
+  "netAmount": 36945.75,
+  "status": "CREATED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-016-043"
+}

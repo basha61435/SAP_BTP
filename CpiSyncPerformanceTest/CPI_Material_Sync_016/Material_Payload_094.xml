@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Material>
+  <Header>
+    <DocumentNumber>4500016094</DocumentNumber>
+    <CompanyCode>1010</CompanyCode>
+    <DocumentDate>2026-03-11</DocumentDate>
+    <Currency>SEK</Currency>
+    <PartnerName>Pacific Logistics Inc</PartnerName>
+    <City>Walldorf</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG60</Material><Quantity>81</Quantity><NetAmount>36927.99</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG213</Material><Quantity>67</Quantity><NetAmount>12309.33</NetAmount></Item>
+  </Items>
+</Material>
