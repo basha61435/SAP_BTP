@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500008083",
+  "type": "CostCenter",
+  "partner": { "name": "Acme Retail GmbH", "city": "Frankfurt" },
+  "netAmount": 72055.82,
+  "status": "CREATED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-008-083"
+}

@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500008047",
+  "type": "CostCenter",
+  "partner": { "name": "Nordic Foods AB", "city": "Bengaluru" },
+  "netAmount": 41332.86,
+  "status": "POSTED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-008-047"
+}

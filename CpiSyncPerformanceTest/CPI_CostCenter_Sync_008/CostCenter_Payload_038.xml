@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CostCenter>
+  <Header>
+    <DocumentNumber>4500008038</DocumentNumber>
+    <CompanyCode>1010</CompanyCode>
+    <DocumentDate>2026-01-06</DocumentDate>
+    <Currency>SEK</Currency>
+    <PartnerName>Bharat Steel Ltd</PartnerName>
+    <City>Lima</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG27</Material><Quantity>421</Quantity><NetAmount>52245.79</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG834</Material><Quantity>381</Quantity><NetAmount>17415.26</NetAmount></Item>
+  </Items>
+</CostCenter>

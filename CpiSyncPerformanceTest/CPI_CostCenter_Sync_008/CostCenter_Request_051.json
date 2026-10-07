@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500008051",
+  "type": "CostCenter",
+  "partner": { "name": "Pacific Logistics Inc", "city": "Lima" },
+  "netAmount": 57106.18,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-008-051"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CostCenter>
+  <Header>
+    <DocumentNumber>4500008070</DocumentNumber>
+    <CompanyCode>1710</CompanyCode>
+    <DocumentDate>2026-06-11</DocumentDate>
+    <Currency>INR</Currency>
+    <PartnerName>Acme Retail GmbH</PartnerName>
+    <City>Chicago</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG47</Material><Quantity>112</Quantity><NetAmount>22197.47</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG870</Material><Quantity>317</Quantity><NetAmount>7399.16</NetAmount></Item>
+  </Items>
+</CostCenter>

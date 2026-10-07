@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500008095",
+  "type": "CostCenter",
+  "partner": { "name": "Andes Mining SA", "city": "Stockholm" },
+  "netAmount": 95157.89,
+  "status": "POSTED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-008-095"
+}

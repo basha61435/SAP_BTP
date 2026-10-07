@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CostCenter>
+  <Header>
+    <DocumentNumber>4500008074</DocumentNumber>
+    <CompanyCode>2910</CompanyCode>
+    <DocumentDate>2026-01-17</DocumentDate>
+    <Currency>INR</Currency>
+    <PartnerName>Pacific Logistics Inc</PartnerName>
+    <City>Walldorf</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG75</Material><Quantity>412</Quantity><NetAmount>38648.62</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG620</Material><Quantity>229</Quantity><NetAmount>12882.87</NetAmount></Item>
+  </Items>
+</CostCenter>

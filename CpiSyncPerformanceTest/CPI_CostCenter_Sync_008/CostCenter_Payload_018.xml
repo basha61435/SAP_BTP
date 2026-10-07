@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CostCenter>
+  <Header>
+    <DocumentNumber>4500008018</DocumentNumber>
+    <CompanyCode>4310</CompanyCode>
+    <DocumentDate>2026-03-04</DocumentDate>
+    <Currency>USD</Currency>
+    <PartnerName>Pacific Logistics Inc</PartnerName>
+    <City>Frankfurt</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG99</Material><Quantity>372</Quantity><NetAmount>85081.24</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG160</Material><Quantity>483</Quantity><NetAmount>28360.41</NetAmount></Item>
+  </Items>
+</CostCenter>
