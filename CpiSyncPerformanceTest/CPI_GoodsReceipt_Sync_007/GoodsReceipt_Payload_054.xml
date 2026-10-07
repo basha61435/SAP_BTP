@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodsReceipt>
+  <Header>
+    <DocumentNumber>4500007054</DocumentNumber>
+    <CompanyCode>2910</CompanyCode>
+    <DocumentDate>2026-05-09</DocumentDate>
+    <Currency>SEK</Currency>
+    <PartnerName>Bharat Steel Ltd</PartnerName>
+    <City>Walldorf</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG99</Material><Quantity>351</Quantity><NetAmount>33852.48</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG200</Material><Quantity>498</Quantity><NetAmount>11284.16</NetAmount></Item>
+  </Items>
+</GoodsReceipt>

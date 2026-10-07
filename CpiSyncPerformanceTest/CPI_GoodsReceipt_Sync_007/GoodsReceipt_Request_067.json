@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500007067",
+  "type": "GoodsReceipt",
+  "partner": { "name": "Rhein Chemie AG", "city": "Walldorf" },
+  "netAmount": 47461.84,
+  "status": "RELEASED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-007-067"
+}

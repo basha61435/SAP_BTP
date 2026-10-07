@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500007071",
+  "type": "GoodsReceipt",
+  "partner": { "name": "Andes Mining SA", "city": "Stockholm" },
+  "netAmount": 58489.68,
+  "status": "CREATED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-007-071"
+}

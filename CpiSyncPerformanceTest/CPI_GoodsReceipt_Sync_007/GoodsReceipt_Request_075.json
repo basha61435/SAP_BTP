@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500007075",
+  "type": "GoodsReceipt",
+  "partner": { "name": "Nordic Foods AB", "city": "Walldorf" },
+  "netAmount": 80561.63,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-007-075"
+}

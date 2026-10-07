@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodsReceipt>
+  <Header>
+    <DocumentNumber>4500007038</DocumentNumber>
+    <CompanyCode>1710</CompanyCode>
+    <DocumentDate>2026-02-03</DocumentDate>
+    <Currency>INR</Currency>
+    <PartnerName>Nordic Foods AB</PartnerName>
+    <City>Chicago</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG79</Material><Quantity>212</Quantity><NetAmount>56467.67</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG874</Material><Quantity>302</Quantity><NetAmount>18822.56</NetAmount></Item>
+  </Items>
+</GoodsReceipt>

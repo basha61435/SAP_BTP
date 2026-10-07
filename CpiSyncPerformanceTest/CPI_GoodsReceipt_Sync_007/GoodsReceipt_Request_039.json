@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500007039",
+  "type": "GoodsReceipt",
+  "partner": { "name": "Nordic Foods AB", "city": "Lima" },
+  "netAmount": 6192.22,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-007-039"
+}

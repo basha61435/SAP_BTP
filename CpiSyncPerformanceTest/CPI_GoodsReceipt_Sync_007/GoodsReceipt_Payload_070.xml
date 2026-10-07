@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodsReceipt>
+  <Header>
+    <DocumentNumber>4500007070</DocumentNumber>
+    <CompanyCode>4310</CompanyCode>
+    <DocumentDate>2026-05-07</DocumentDate>
+    <Currency>SEK</Currency>
+    <PartnerName>Pacific Logistics Inc</PartnerName>
+    <City>Stockholm</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG48</Material><Quantity>347</Quantity><NetAmount>85172.61</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG633</Material><Quantity>423</Quantity><NetAmount>28390.87</NetAmount></Item>
+  </Items>
+</GoodsReceipt>
