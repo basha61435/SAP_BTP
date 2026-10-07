@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500014075",
+  "type": "Delivery",
+  "partner": { "name": "Pacific Logistics Inc", "city": "Chicago" },
+  "netAmount": 16438.98,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-014-075"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Delivery>
+  <Header>
+    <DocumentNumber>4500014038</DocumentNumber>
+    <CompanyCode>2910</CompanyCode>
+    <DocumentDate>2026-05-01</DocumentDate>
+    <Currency>EUR</Currency>
+    <PartnerName>Bharat Steel Ltd</PartnerName>
+    <City>Bengaluru</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG94</Material><Quantity>410</Quantity><NetAmount>36363.14</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG155</Material><Quantity>354</Quantity><NetAmount>12121.05</NetAmount></Item>
+  </Items>
+</Delivery>

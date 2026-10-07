@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Delivery>
+  <Header>
+    <DocumentNumber>4500014054</DocumentNumber>
+    <CompanyCode>1010</CompanyCode>
+    <DocumentDate>2026-08-07</DocumentDate>
+    <Currency>INR</Currency>
+    <PartnerName>Rhein Chemie AG</PartnerName>
+    <City>Lima</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG99</Material><Quantity>437</Quantity><NetAmount>62699.45</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG272</Material><Quantity>26</Quantity><NetAmount>20899.82</NetAmount></Item>
+  </Items>
+</Delivery>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Delivery>
+  <Header>
+    <DocumentNumber>4500014002</DocumentNumber>
+    <CompanyCode>4310</CompanyCode>
+    <DocumentDate>2026-07-20</DocumentDate>
+    <Currency>INR</Currency>
+    <PartnerName>Andes Mining SA</PartnerName>
+    <City>Walldorf</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG46</Material><Quantity>165</Quantity><NetAmount>39198.95</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG162</Material><Quantity>15</Quantity><NetAmount>13066.32</NetAmount></Item>
+  </Items>
+</Delivery>

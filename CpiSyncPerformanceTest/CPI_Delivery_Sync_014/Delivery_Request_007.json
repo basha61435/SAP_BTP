@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500014007",
+  "type": "Delivery",
+  "partner": { "name": "Bharat Steel Ltd", "city": "Walldorf" },
+  "netAmount": 33825.33,
+  "status": "CREATED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-014-007"
+}

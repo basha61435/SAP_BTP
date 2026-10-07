@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500014095",
+  "type": "Delivery",
+  "partner": { "name": "Acme Retail GmbH", "city": "Lima" },
+  "netAmount": 34239.97,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-014-095"
+}
