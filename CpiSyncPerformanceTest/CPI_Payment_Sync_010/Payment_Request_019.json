@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500010019",
+  "type": "Payment",
+  "partner": { "name": "Bharat Steel Ltd", "city": "Stockholm" },
+  "netAmount": 99795.55,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-010-019"
+}

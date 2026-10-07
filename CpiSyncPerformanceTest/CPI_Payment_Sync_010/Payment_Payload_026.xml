@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Payment>
+  <Header>
+    <DocumentNumber>4500010026</DocumentNumber>
+    <CompanyCode>1010</CompanyCode>
+    <DocumentDate>2026-09-17</DocumentDate>
+    <Currency>EUR</Currency>
+    <PartnerName>Bharat Steel Ltd</PartnerName>
+    <City>Chicago</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG42</Material><Quantity>247</Quantity><NetAmount>15945.12</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG753</Material><Quantity>153</Quantity><NetAmount>5315.04</NetAmount></Item>
+  </Items>
+</Payment>

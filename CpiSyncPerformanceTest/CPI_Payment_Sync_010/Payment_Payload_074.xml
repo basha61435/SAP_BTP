@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Payment>
+  <Header>
+    <DocumentNumber>4500010074</DocumentNumber>
+    <CompanyCode>1010</CompanyCode>
+    <DocumentDate>2026-07-17</DocumentDate>
+    <Currency>SEK</Currency>
+    <PartnerName>Acme Retail GmbH</PartnerName>
+    <City>Lima</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG99</Material><Quantity>67</Quantity><NetAmount>39978.81</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG880</Material><Quantity>70</Quantity><NetAmount>13326.27</NetAmount></Item>
+  </Items>
+</Payment>

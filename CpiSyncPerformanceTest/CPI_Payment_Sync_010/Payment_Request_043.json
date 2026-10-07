@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500010043",
+  "type": "Payment",
+  "partner": { "name": "Andes Mining SA", "city": "Frankfurt" },
+  "netAmount": 6761.25,
+  "status": "RELEASED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-010-043"
+}

@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500010091",
+  "type": "Payment",
+  "partner": { "name": "Andes Mining SA", "city": "Walldorf" },
+  "netAmount": 18722.91,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-010-091"
+}
