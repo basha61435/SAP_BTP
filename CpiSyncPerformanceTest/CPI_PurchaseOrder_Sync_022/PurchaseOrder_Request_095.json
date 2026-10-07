@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500022095",
+  "type": "PurchaseOrder",
+  "partner": { "name": "Rhein Chemie AG", "city": "Chicago" },
+  "netAmount": 91230.72,
+  "status": "CREATED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-022-095"
+}

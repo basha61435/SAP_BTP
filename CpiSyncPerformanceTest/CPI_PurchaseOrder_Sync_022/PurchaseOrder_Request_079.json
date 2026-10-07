@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500022079",
+  "type": "PurchaseOrder",
+  "partner": { "name": "Rhein Chemie AG", "city": "Walldorf" },
+  "netAmount": 95087.24,
+  "status": "RELEASED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-022-079"
+}

@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500022043",
+  "type": "PurchaseOrder",
+  "partner": { "name": "Bharat Steel Ltd", "city": "Bengaluru" },
+  "netAmount": 45636.08,
+  "status": "CREATED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-022-043"
+}

@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500022023",
+  "type": "PurchaseOrder",
+  "partner": { "name": "Pacific Logistics Inc", "city": "Walldorf" },
+  "netAmount": 46696.84,
+  "status": "POSTED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-022-023"
+}

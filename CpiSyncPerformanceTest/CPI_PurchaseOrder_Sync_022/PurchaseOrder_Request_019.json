@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500022019",
+  "type": "PurchaseOrder",
+  "partner": { "name": "Rhein Chemie AG", "city": "Chicago" },
+  "netAmount": 8645.05,
+  "status": "RELEASED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-022-019"
+}

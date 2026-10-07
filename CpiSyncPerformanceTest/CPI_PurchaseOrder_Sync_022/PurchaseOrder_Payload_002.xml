@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PurchaseOrder>
+  <Header>
+    <DocumentNumber>4500022002</DocumentNumber>
+    <CompanyCode>1010</CompanyCode>
+    <DocumentDate>2026-05-18</DocumentDate>
+    <Currency>USD</Currency>
+    <PartnerName>Rhein Chemie AG</PartnerName>
+    <City>Walldorf</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG73</Material><Quantity>362</Quantity><NetAmount>65692.71</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG852</Material><Quantity>417</Quantity><NetAmount>21897.57</NetAmount></Item>
+  </Items>
+</PurchaseOrder>

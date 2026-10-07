@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PurchaseOrder>
+  <Header>
+    <DocumentNumber>4500022050</DocumentNumber>
+    <CompanyCode>4310</CompanyCode>
+    <DocumentDate>2026-04-06</DocumentDate>
+    <Currency>SEK</Currency>
+    <PartnerName>Pacific Logistics Inc</PartnerName>
+    <City>Lima</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG11</Material><Quantity>86</Quantity><NetAmount>98325.47</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG223</Material><Quantity>215</Quantity><NetAmount>32775.16</NetAmount></Item>
+  </Items>
+</PurchaseOrder>
