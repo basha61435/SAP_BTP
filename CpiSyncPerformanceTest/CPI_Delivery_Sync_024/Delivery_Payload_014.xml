@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Delivery>
+  <Header>
+    <DocumentNumber>4500024014</DocumentNumber>
+    <CompanyCode>1010</CompanyCode>
+    <DocumentDate>2026-06-09</DocumentDate>
+    <Currency>SEK</Currency>
+    <PartnerName>Acme Retail GmbH</PartnerName>
+    <City>Stockholm</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG53</Material><Quantity>346</Quantity><NetAmount>46078.59</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG403</Material><Quantity>393</Quantity><NetAmount>15359.53</NetAmount></Item>
+  </Items>
+</Delivery>

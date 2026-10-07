@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500024067",
+  "type": "Delivery",
+  "partner": { "name": "Rhein Chemie AG", "city": "Stockholm" },
+  "netAmount": 75274.24,
+  "status": "POSTED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-024-067"
+}

@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500024007",
+  "type": "Delivery",
+  "partner": { "name": "Pacific Logistics Inc", "city": "Walldorf" },
+  "netAmount": 48664.84,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-024-007"
+}

@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500024095",
+  "type": "Delivery",
+  "partner": { "name": "Bharat Steel Ltd", "city": "Frankfurt" },
+  "netAmount": 30033.46,
+  "status": "RELEASED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-024-095"
+}
