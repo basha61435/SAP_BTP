@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500012003",
+  "type": "PurchaseOrder",
+  "partner": { "name": "Pacific Logistics Inc", "city": "Frankfurt" },
+  "netAmount": 43729.4,
+  "status": "RELEASED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-012-003"
+}

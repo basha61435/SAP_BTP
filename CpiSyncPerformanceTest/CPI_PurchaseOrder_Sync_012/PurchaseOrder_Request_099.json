@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500012099",
+  "type": "PurchaseOrder",
+  "partner": { "name": "Acme Retail GmbH", "city": "Walldorf" },
+  "netAmount": 48029.84,
+  "status": "POSTED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-012-099"
+}

@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500012095",
+  "type": "PurchaseOrder",
+  "partner": { "name": "Andes Mining SA", "city": "Walldorf" },
+  "netAmount": 41834.99,
+  "status": "CREATED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-012-095"
+}

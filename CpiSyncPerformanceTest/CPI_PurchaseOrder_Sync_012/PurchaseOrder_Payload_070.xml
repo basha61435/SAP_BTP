@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PurchaseOrder>
+  <Header>
+    <DocumentNumber>4500012070</DocumentNumber>
+    <CompanyCode>1010</CompanyCode>
+    <DocumentDate>2026-03-04</DocumentDate>
+    <Currency>SEK</Currency>
+    <PartnerName>Andes Mining SA</PartnerName>
+    <City>Bengaluru</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG30</Material><Quantity>9</Quantity><NetAmount>43921.82</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG598</Material><Quantity>42</Quantity><NetAmount>14640.61</NetAmount></Item>
+  </Items>
+</PurchaseOrder>

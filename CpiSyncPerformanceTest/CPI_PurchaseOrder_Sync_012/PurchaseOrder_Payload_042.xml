@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PurchaseOrder>
+  <Header>
+    <DocumentNumber>4500012042</DocumentNumber>
+    <CompanyCode>2910</CompanyCode>
+    <DocumentDate>2026-03-15</DocumentDate>
+    <Currency>EUR</Currency>
+    <PartnerName>Bharat Steel Ltd</PartnerName>
+    <City>Walldorf</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG72</Material><Quantity>476</Quantity><NetAmount>25897.78</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG305</Material><Quantity>313</Quantity><NetAmount>8632.59</NetAmount></Item>
+  </Items>
+</PurchaseOrder>
