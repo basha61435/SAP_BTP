@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500020091",
+  "type": "Payment",
+  "partner": { "name": "Nordic Foods AB", "city": "Lima" },
+  "netAmount": 10655.38,
+  "status": "RELEASED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-020-091"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Payment>
+  <Header>
+    <DocumentNumber>4500020050</DocumentNumber>
+    <CompanyCode>1010</CompanyCode>
+    <DocumentDate>2026-09-17</DocumentDate>
+    <Currency>USD</Currency>
+    <PartnerName>Acme Retail GmbH</PartnerName>
+    <City>Bengaluru</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG37</Material><Quantity>444</Quantity><NetAmount>60649.86</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG473</Material><Quantity>59</Quantity><NetAmount>20216.62</NetAmount></Item>
+  </Items>
+</Payment>

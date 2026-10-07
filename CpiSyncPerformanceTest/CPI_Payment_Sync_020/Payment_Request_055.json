@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500020055",
+  "type": "Payment",
+  "partner": { "name": "Rhein Chemie AG", "city": "Frankfurt" },
+  "netAmount": 28179.89,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-020-055"
+}

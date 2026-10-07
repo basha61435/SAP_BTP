@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Payment>
+  <Header>
+    <DocumentNumber>4500020018</DocumentNumber>
+    <CompanyCode>4310</CompanyCode>
+    <DocumentDate>2026-09-25</DocumentDate>
+    <Currency>INR</Currency>
+    <PartnerName>Bharat Steel Ltd</PartnerName>
+    <City>Chicago</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG24</Material><Quantity>475</Quantity><NetAmount>82834.94</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG280</Material><Quantity>235</Quantity><NetAmount>27611.65</NetAmount></Item>
+  </Items>
+</Payment>

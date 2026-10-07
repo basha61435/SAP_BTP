@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500020063",
+  "type": "Payment",
+  "partner": { "name": "Nordic Foods AB", "city": "Walldorf" },
+  "netAmount": 21596.68,
+  "status": "POSTED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-020-063"
+}
