@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500028075",
+  "type": "CostCenter",
+  "partner": { "name": "Acme Retail GmbH", "city": "Lima" },
+  "netAmount": 44498.11,
+  "status": "RELEASED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-028-075"
+}
