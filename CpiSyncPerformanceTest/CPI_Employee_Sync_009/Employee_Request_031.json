@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500009031",
+  "type": "Employee",
+  "partner": { "name": "Pacific Logistics Inc", "city": "Lima" },
+  "netAmount": 60020.8,
+  "status": "CREATED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-009-031"
+}

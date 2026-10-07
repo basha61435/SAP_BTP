@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500009003",
+  "type": "Employee",
+  "partner": { "name": "Rhein Chemie AG", "city": "Walldorf" },
+  "netAmount": 72769.07,
+  "status": "CREATED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-009-003"
+}
