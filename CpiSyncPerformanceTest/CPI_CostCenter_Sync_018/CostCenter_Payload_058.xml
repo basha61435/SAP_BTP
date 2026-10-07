@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CostCenter>
+  <Header>
+    <DocumentNumber>4500018058</DocumentNumber>
+    <CompanyCode>1010</CompanyCode>
+    <DocumentDate>2026-02-24</DocumentDate>
+    <Currency>INR</Currency>
+    <PartnerName>Nordic Foods AB</PartnerName>
+    <City>Walldorf</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG80</Material><Quantity>476</Quantity><NetAmount>16594.64</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG604</Material><Quantity>414</Quantity><NetAmount>5531.55</NetAmount></Item>
+  </Items>
+</CostCenter>

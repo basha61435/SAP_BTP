@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CostCenter>
+  <Header>
+    <DocumentNumber>4500018022</DocumentNumber>
+    <CompanyCode>1010</CompanyCode>
+    <DocumentDate>2026-08-21</DocumentDate>
+    <Currency>USD</Currency>
+    <PartnerName>Acme Retail GmbH</PartnerName>
+    <City>Walldorf</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG12</Material><Quantity>301</Quantity><NetAmount>11750.98</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG686</Material><Quantity>294</Quantity><NetAmount>3916.99</NetAmount></Item>
+  </Items>
+</CostCenter>

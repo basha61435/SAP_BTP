@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CostCenter>
+  <Header>
+    <DocumentNumber>4500018062</DocumentNumber>
+    <CompanyCode>2910</CompanyCode>
+    <DocumentDate>2026-04-24</DocumentDate>
+    <Currency>EUR</Currency>
+    <PartnerName>Rhein Chemie AG</PartnerName>
+    <City>Walldorf</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG87</Material><Quantity>230</Quantity><NetAmount>71443.88</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG272</Material><Quantity>346</Quantity><NetAmount>23814.63</NetAmount></Item>
+  </Items>
+</CostCenter>

@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500018075",
+  "type": "CostCenter",
+  "partner": { "name": "Pacific Logistics Inc", "city": "Walldorf" },
+  "netAmount": 35987.39,
+  "status": "RELEASED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-018-075"
+}

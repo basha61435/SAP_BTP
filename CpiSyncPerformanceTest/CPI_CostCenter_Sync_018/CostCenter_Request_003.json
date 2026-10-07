@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500018003",
+  "type": "CostCenter",
+  "partner": { "name": "Rhein Chemie AG", "city": "Frankfurt" },
+  "netAmount": 84926.99,
+  "status": "CREATED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-018-003"
+}

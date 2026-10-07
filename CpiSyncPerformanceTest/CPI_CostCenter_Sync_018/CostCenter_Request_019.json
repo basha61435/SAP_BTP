@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500018019",
+  "type": "CostCenter",
+  "partner": { "name": "Rhein Chemie AG", "city": "Lima" },
+  "netAmount": 95459.13,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-018-019"
+}
