@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodsReceipt>
+  <Header>
+    <DocumentNumber>4500027062</DocumentNumber>
+    <CompanyCode>1710</CompanyCode>
+    <DocumentDate>2026-07-09</DocumentDate>
+    <Currency>INR</Currency>
+    <PartnerName>Pacific Logistics Inc</PartnerName>
+    <City>Lima</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG40</Material><Quantity>272</Quantity><NetAmount>64094.8</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG107</Material><Quantity>336</Quantity><NetAmount>21364.93</NetAmount></Item>
+  </Items>
+</GoodsReceipt>

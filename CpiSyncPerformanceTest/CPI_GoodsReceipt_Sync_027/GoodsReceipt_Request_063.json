@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500027063",
+  "type": "GoodsReceipt",
+  "partner": { "name": "Rhein Chemie AG", "city": "Chicago" },
+  "netAmount": 28216.49,
+  "status": "RELEASED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-027-063"
+}

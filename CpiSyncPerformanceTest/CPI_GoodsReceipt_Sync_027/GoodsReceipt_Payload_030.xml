@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodsReceipt>
+  <Header>
+    <DocumentNumber>4500027030</DocumentNumber>
+    <CompanyCode>4310</CompanyCode>
+    <DocumentDate>2026-05-23</DocumentDate>
+    <Currency>USD</Currency>
+    <PartnerName>Andes Mining SA</PartnerName>
+    <City>Stockholm</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG24</Material><Quantity>340</Quantity><NetAmount>15912.06</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG250</Material><Quantity>466</Quantity><NetAmount>5304.02</NetAmount></Item>
+  </Items>
+</GoodsReceipt>

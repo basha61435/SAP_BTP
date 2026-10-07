@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodsReceipt>
+  <Header>
+    <DocumentNumber>4500027054</DocumentNumber>
+    <CompanyCode>1010</CompanyCode>
+    <DocumentDate>2026-01-14</DocumentDate>
+    <Currency>USD</Currency>
+    <PartnerName>Rhein Chemie AG</PartnerName>
+    <City>Walldorf</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG36</Material><Quantity>26</Quantity><NetAmount>18638.74</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG834</Material><Quantity>41</Quantity><NetAmount>6212.91</NetAmount></Item>
+  </Items>
+</GoodsReceipt>

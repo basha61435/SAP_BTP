@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodsReceipt>
+  <Header>
+    <DocumentNumber>4500027050</DocumentNumber>
+    <CompanyCode>1710</CompanyCode>
+    <DocumentDate>2026-02-28</DocumentDate>
+    <Currency>EUR</Currency>
+    <PartnerName>Acme Retail GmbH</PartnerName>
+    <City>Bengaluru</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG11</Material><Quantity>371</Quantity><NetAmount>57233.12</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG113</Material><Quantity>378</Quantity><NetAmount>19077.71</NetAmount></Item>
+  </Items>
+</GoodsReceipt>

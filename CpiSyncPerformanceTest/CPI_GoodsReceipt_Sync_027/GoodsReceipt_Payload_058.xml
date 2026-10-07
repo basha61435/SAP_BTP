@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodsReceipt>
+  <Header>
+    <DocumentNumber>4500027058</DocumentNumber>
+    <CompanyCode>1010</CompanyCode>
+    <DocumentDate>2026-02-06</DocumentDate>
+    <Currency>USD</Currency>
+    <PartnerName>Acme Retail GmbH</PartnerName>
+    <City>Stockholm</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG43</Material><Quantity>74</Quantity><NetAmount>18574.11</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG999</Material><Quantity>278</Quantity><NetAmount>6191.37</NetAmount></Item>
+  </Items>
+</GoodsReceipt>
