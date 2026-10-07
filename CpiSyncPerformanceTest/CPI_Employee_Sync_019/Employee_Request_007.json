@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500019007",
+  "type": "Employee",
+  "partner": { "name": "Rhein Chemie AG", "city": "Bengaluru" },
+  "netAmount": 74096.71,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-019-007"
+}

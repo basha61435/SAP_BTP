@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500019051",
+  "type": "Employee",
+  "partner": { "name": "Acme Retail GmbH", "city": "Bengaluru" },
+  "netAmount": 99390.15,
+  "status": "CREATED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-019-051"
+}
