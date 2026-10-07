@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500021027",
+  "type": "SalesOrder",
+  "partner": { "name": "Bharat Steel Ltd", "city": "Lima" },
+  "netAmount": 55857.71,
+  "status": "RELEASED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-021-027"
+}

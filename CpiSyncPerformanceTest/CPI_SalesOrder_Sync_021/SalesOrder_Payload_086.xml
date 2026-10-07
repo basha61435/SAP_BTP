@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SalesOrder>
+  <Header>
+    <DocumentNumber>4500021086</DocumentNumber>
+    <CompanyCode>2910</CompanyCode>
+    <DocumentDate>2026-01-02</DocumentDate>
+    <Currency>INR</Currency>
+    <PartnerName>Rhein Chemie AG</PartnerName>
+    <City>Walldorf</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG63</Material><Quantity>134</Quantity><NetAmount>58318.39</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG305</Material><Quantity>172</Quantity><NetAmount>19439.46</NetAmount></Item>
+  </Items>
+</SalesOrder>
