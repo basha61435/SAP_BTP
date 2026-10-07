@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BusinessPartner>
+  <Header>
+    <DocumentNumber>4500005094</DocumentNumber>
+    <CompanyCode>1010</CompanyCode>
+    <DocumentDate>2026-04-07</DocumentDate>
+    <Currency>INR</Currency>
+    <PartnerName>Pacific Logistics Inc</PartnerName>
+    <City>Lima</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG18</Material><Quantity>296</Quantity><NetAmount>43011.9</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG204</Material><Quantity>410</Quantity><NetAmount>14337.3</NetAmount></Item>
+  </Items>
+</BusinessPartner>

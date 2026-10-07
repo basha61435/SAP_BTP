@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BusinessPartner>
+  <Header>
+    <DocumentNumber>4500005030</DocumentNumber>
+    <CompanyCode>1010</CompanyCode>
+    <DocumentDate>2026-05-18</DocumentDate>
+    <Currency>SEK</Currency>
+    <PartnerName>Andes Mining SA</PartnerName>
+    <City>Bengaluru</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG47</Material><Quantity>79</Quantity><NetAmount>74150.37</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG300</Material><Quantity>169</Quantity><NetAmount>24716.79</NetAmount></Item>
+  </Items>
+</BusinessPartner>
