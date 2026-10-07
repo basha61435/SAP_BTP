@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PurchaseOrder>
+  <Header>
+    <DocumentNumber>4500002054</DocumentNumber>
+    <CompanyCode>4310</CompanyCode>
+    <DocumentDate>2026-05-22</DocumentDate>
+    <Currency>SEK</Currency>
+    <PartnerName>Nordic Foods AB</PartnerName>
+    <City>Chicago</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG80</Material><Quantity>19</Quantity><NetAmount>41222.93</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG565</Material><Quantity>46</Quantity><NetAmount>13740.98</NetAmount></Item>
+  </Items>
+</PurchaseOrder>

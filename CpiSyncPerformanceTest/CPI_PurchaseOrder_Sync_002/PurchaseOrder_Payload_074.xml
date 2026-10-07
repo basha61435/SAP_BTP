@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PurchaseOrder>
+  <Header>
+    <DocumentNumber>4500002074</DocumentNumber>
+    <CompanyCode>2910</CompanyCode>
+    <DocumentDate>2026-09-13</DocumentDate>
+    <Currency>INR</Currency>
+    <PartnerName>Pacific Logistics Inc</PartnerName>
+    <City>Frankfurt</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG90</Material><Quantity>368</Quantity><NetAmount>8123.42</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG877</Material><Quantity>250</Quantity><NetAmount>2707.81</NetAmount></Item>
+  </Items>
+</PurchaseOrder>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PurchaseOrder>
+  <Header>
+    <DocumentNumber>4500002030</DocumentNumber>
+    <CompanyCode>1010</CompanyCode>
+    <DocumentDate>2026-04-10</DocumentDate>
+    <Currency>USD</Currency>
+    <PartnerName>Andes Mining SA</PartnerName>
+    <City>Lima</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG56</Material><Quantity>92</Quantity><NetAmount>59718.8</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG409</Material><Quantity>8</Quantity><NetAmount>19906.27</NetAmount></Item>
+  </Items>
+</PurchaseOrder>

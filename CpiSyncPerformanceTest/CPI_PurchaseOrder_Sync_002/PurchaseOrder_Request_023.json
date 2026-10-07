@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500002023",
+  "type": "PurchaseOrder",
+  "partner": { "name": "Andes Mining SA", "city": "Bengaluru" },
+  "netAmount": 69091.18,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-002-023"
+}
