@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500006023",
+  "type": "Material",
+  "partner": { "name": "Rhein Chemie AG", "city": "Walldorf" },
+  "netAmount": 73119.37,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-006-023"
+}

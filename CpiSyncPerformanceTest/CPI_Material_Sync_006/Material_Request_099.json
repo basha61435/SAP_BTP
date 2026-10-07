@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500006099",
+  "type": "Material",
+  "partner": { "name": "Bharat Steel Ltd", "city": "Lima" },
+  "netAmount": 50288.58,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-006-099"
+}

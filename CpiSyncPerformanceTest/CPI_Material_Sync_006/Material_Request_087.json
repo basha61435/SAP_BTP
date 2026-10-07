@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500006087",
+  "type": "Material",
+  "partner": { "name": "Pacific Logistics Inc", "city": "Stockholm" },
+  "netAmount": 55639.22,
+  "status": "RELEASED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-006-087"
+}
