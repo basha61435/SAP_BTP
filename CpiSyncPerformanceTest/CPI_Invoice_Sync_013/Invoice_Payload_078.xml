@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice>
+  <Header>
+    <DocumentNumber>4500013078</DocumentNumber>
+    <CompanyCode>2910</CompanyCode>
+    <DocumentDate>2026-07-14</DocumentDate>
+    <Currency>USD</Currency>
+    <PartnerName>Rhein Chemie AG</PartnerName>
+    <City>Walldorf</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG75</Material><Quantity>117</Quantity><NetAmount>18166.59</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG517</Material><Quantity>58</Quantity><NetAmount>6055.53</NetAmount></Item>
+  </Items>
+</Invoice>

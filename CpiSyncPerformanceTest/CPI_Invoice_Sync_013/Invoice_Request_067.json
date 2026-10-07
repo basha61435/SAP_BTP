@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500013067",
+  "type": "Invoice",
+  "partner": { "name": "Rhein Chemie AG", "city": "Walldorf" },
+  "netAmount": 7865.68,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-013-067"
+}

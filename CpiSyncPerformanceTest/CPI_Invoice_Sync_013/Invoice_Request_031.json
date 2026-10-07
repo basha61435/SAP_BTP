@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500013031",
+  "type": "Invoice",
+  "partner": { "name": "Andes Mining SA", "city": "Frankfurt" },
+  "netAmount": 90696.48,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-013-031"
+}
