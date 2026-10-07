@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SalesOrder>
+  <Header>
+    <DocumentNumber>4500001074</DocumentNumber>
+    <CompanyCode>2910</CompanyCode>
+    <DocumentDate>2026-07-20</DocumentDate>
+    <Currency>EUR</Currency>
+    <PartnerName>Andes Mining SA</PartnerName>
+    <City>Stockholm</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG59</Material><Quantity>461</Quantity><NetAmount>34633.8</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG690</Material><Quantity>98</Quantity><NetAmount>11544.6</NetAmount></Item>
+  </Items>
+</SalesOrder>

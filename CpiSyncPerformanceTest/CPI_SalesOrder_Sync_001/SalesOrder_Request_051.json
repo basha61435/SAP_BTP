@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500001051",
+  "type": "SalesOrder",
+  "partner": { "name": "Rhein Chemie AG", "city": "Frankfurt" },
+  "netAmount": 30069.41,
+  "status": "POSTED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-001-051"
+}
