@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500003083",
+  "type": "Invoice",
+  "partner": { "name": "Pacific Logistics Inc", "city": "Chicago" },
+  "netAmount": 93053.22,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-003-083"
+}

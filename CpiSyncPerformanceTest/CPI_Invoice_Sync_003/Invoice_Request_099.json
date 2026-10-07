@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500003099",
+  "type": "Invoice",
+  "partner": { "name": "Pacific Logistics Inc", "city": "Walldorf" },
+  "netAmount": 29414.62,
+  "status": "CREATED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-003-099"
+}

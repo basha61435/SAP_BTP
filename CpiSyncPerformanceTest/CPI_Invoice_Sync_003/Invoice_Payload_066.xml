@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice>
+  <Header>
+    <DocumentNumber>4500003066</DocumentNumber>
+    <CompanyCode>4310</CompanyCode>
+    <DocumentDate>2026-05-09</DocumentDate>
+    <Currency>USD</Currency>
+    <PartnerName>Bharat Steel Ltd</PartnerName>
+    <City>Walldorf</City>
+  </Header>
+  <Items>
+    <Item><ItemNo>10</ItemNo><Material>TG52</Material><Quantity>42</Quantity><NetAmount>55839.97</NetAmount></Item>
+    <Item><ItemNo>20</ItemNo><Material>FG696</Material><Quantity>340</Quantity><NetAmount>18613.32</NetAmount></Item>
+  </Items>
+</Invoice>

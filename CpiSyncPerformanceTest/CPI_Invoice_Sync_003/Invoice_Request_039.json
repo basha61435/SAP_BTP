@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500003039",
+  "type": "Invoice",
+  "partner": { "name": "Bharat Steel Ltd", "city": "Bengaluru" },
+  "netAmount": 75518.07,
+  "status": "CREATED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-003-039"
+}

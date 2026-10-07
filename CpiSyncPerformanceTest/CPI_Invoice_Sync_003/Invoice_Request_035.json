@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500003035",
+  "type": "Invoice",
+  "partner": { "name": "Rhein Chemie AG", "city": "Lima" },
+  "netAmount": 21591.56,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-003-035"
+}
