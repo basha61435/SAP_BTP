@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500004043",
+  "type": "Delivery",
+  "partner": { "name": "Acme Retail GmbH", "city": "Walldorf" },
+  "netAmount": 94527.81,
+  "status": "BLOCKED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-004-043"
+}

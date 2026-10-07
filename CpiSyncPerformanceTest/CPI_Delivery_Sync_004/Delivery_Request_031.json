@@ -1,0 +1,10 @@
+{
+  "documentNumber": "4500004031",
+  "type": "Delivery",
+  "partner": { "name": "Nordic Foods AB", "city": "Frankfurt" },
+  "netAmount": 62484.85,
+  "status": "POSTED",
+  "source": "S4HANA_CLOUD",
+  "target": "SALESFORCE",
+  "testRun": "CpiSyncPerformanceTest-004-031"
+}
