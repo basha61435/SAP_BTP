@@ -1,0 +1,4 @@
+#Store metainfo properties
+#Sat Oct 17 01:07:50 UTC 2026
+SAP-MarkedSAP2SAP=SAP_TO_SAP_INTEGRATION
+description=Template for scenario specific inbound processing\: Exactly Once message delivery via Idempotent Process Call

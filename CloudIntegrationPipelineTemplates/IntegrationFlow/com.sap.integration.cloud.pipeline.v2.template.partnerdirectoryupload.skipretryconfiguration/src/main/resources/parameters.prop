@@ -1,0 +1,6 @@
+#Sat Oct 17 01:07:46 UTC 2026
+API_Credential_Alias=OWN_API_ACCESS
+API_URL=https\://&lt;&lt;tenantAPIhostname&gt;&gt;
+PartnerDirectory_PID=SAP_Integration_Suite_SkipRetryGlobalProfile
+ValueMapping_TechnicalID=com.sap.integration.cloud.pipeline.v2.value.mapping.skipretry
+ValueMapping_Version=1.0.1

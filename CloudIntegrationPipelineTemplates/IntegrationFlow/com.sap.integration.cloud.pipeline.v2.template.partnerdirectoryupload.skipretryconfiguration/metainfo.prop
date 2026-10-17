@@ -1,0 +1,4 @@
+#Store metainfo properties
+#Sat Oct 17 01:07:46 UTC 2026
+SAP-MarkedSAP2SAP=SAP_TO_SAP_INTEGRATION
+description=Helper flow to create or update configuration to Partner Directory to decide which errors to skip for retries in Pipeline v2 Generic Step06 - Outbound Processing

@@ -1,0 +1,4 @@
+#Store metainfo properties
+#Sat Oct 17 01:07:41 UTC 2026
+SAP-MarkedSAP2SAP=SAP_TO_SAP_INTEGRATION
+description=Template for scenario specific inbound processing\: Synchronous message delivery
