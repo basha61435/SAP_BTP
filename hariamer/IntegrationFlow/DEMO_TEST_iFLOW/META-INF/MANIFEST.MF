@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: DEMO TEST iFLOW
 Bundle-SymbolicName: DEMO_TEST_iFLOW; singleton:=true
-Bundle-Version: 1.0.5
+Bundle-Version: 1.0.6
 SAP-BundleType: IntegrationFlow
 SAP-NodeType: IFLMAP
 SAP-RuntimeProfile: iflmap
